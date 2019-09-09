@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="install_status" table="x_120631_test_appl_devices" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>install_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pratik</label>
+            <language>en</language>
+            <name>x_120631_test_appl_devices</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-06 16:18:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efbf58681b33330078dded3abc4bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-06 16:18:45</sys_updated_on>
+            <value>Pratik</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>install_status</element>
+            <name>x_120631_test_appl_devices</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-06 16:18:45</sys_created_on>
+            <sys_id>64df98681b33330078dded3abc4bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>install_status</sys_name>
+            <sys_package display_value="TEST APPLICATION" source="x_120631_test_appl">c2bd58a41b33330078dded3abc4bcbbc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TEST APPLICATION">c2bd58a41b33330078dded3abc4bcbbc</sys_scope>
+            <sys_update_name>sys_choice_x_120631_test_appl_devices_install_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-06 16:18:45</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-06 16:12:16</sys_created_on>
+        <sys_id>655ed0281b33330078dded3abc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_120631_test_appl_devices.x_120631_test_appl.devices_user</sys_name>
+        <sys_package display_value="TEST APPLICATION" source="x_120631_test_appl">c2bd58a41b33330078dded3abc4bcbbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST APPLICATION">c2bd58a41b33330078dded3abc4bcbbc</sys_scope>
+        <sys_security_acl display_value="x_120631_test_appl_devices">a55ed0281b33330078dded3abc4bcbfa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_655ed0281b33330078dded3abc4bcbfd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-06 16:12:16</sys_updated_on>
+        <sys_user_role display_value="x_120631_test_appl.devices_user" name="x_120631_test_appl.devices_user">555e90281b33330078dded3abc4bcb7a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
